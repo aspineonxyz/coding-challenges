@@ -33,8 +33,8 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Data Structures](https://www.hackerrank.com/domains/data-structures/)
 ##### [Arrays](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
-[1. Arrays - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/1.%20Arrays%20-%20DS)
-[2. 2D Array - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/2.%202D%20Array%20-%20DS)
+1. [Arrays - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/1.%20Arrays%20-%20DS)
+2. [2D Array - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/2.%202D%20Array%20-%20DS)
 <!--3. Dynamic Array-->
 <!--4. Left Rotation-->
 <!--5. Sparse Arrays-->
