@@ -1,6 +1,8 @@
 # Coding Challenges
 
-A repository containing all my completed coding challenges from coding challenge websites and competitions.
+A repository containing all my completed coding challenges from coding challenge websites such as Hackerrank, TopCoder or LeetCode. I do not own the rights to the questions and am just cataloging my submissions for the purposes of revision and as an exercise in learning *git*. 
+
+__NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
 ### [Hackerrank](https://www.hackerrank.com/) 
 
