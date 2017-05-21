@@ -12,7 +12,7 @@ The second line contains __*N*__ space-separated integers describing __*A*__.
 
 #### Constraints
 * __*1 <= N <= 10^3*__
-* __*1 <= A_i <= 10^4*__, where __*A_i*__ is the __*i*__th integer in __*A*__.
+* __*1 <= A_i <= 10^4*__, where __*A_i*__ is the __*i^th*__ integer in __*A*__.
 
 #### Output Format
 Print all __*N*__ integers in __*A*__ in reverse order as a single line of space-separated integers.
