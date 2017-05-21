@@ -18,7 +18,7 @@ A repository containing all my completed coding challenges from coding challenge
 10. Time Conversion
 ###### Implementation
 <!--1. Grading Students-->
-2. Apple and Orange
+2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/Apple%20and%20Orange)
 <!--3. Kangaroo-->
 <!--4. Between Two Sets-->
 <!--5. Breaking the Records-->
