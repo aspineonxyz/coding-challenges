@@ -1,3 +1,5 @@
+# Apple and Orange
+
 Sam's house has an apple tree and an orange tree that yield an abundance of fruit. In the diagram below, the red region denotes his house, where __*s*__ is the start point __*t*__ and  is the end point. The apple tree is to the left of his house, and the orange tree is to its right. You can assume the trees are located on a single point, where the apple tree is at point __*a*__ and the orange tree is at point __*b*__.
 
 ![apple-and-orange-1](https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/Apple%20and%20Orange/img/apple-and-orange-1.png)
