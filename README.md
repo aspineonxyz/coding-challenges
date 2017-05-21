@@ -18,7 +18,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--8. Mini-Max Sum-->
 <!--9. Birthday Cake Candles-->
 [10. Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
-###### Implementation
+###### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
 <!--1. Grading Students-->
 [2. Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/2.%20Apple%20and%20Orange)
 <!--3. Kangaroo-->
