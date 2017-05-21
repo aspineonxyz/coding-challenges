@@ -7,7 +7,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ### [Hackerrank](https://www.hackerrank.com/) 
 
 ##### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
-###### Warmup
+###### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
 <!--1. Solve Me First-->
 <!--2. Simple Array Sum-->
 <!--3. Compare the Triplets-->
