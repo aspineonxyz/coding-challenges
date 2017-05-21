@@ -137,7 +137,38 @@ A repository containing all my completed coding challenges from coding challenge
 <!--13. Inner and Outer-->
 <!--14. Polynomials-->
 <!--15. Linear Algebra-->
+
 ##### [Java](https://www.hackerrank.com/domains/java/)
+###### Introduction
+1. Welcome to Java!
+2. Java Stdin and Stdout I
+3. Java If-Else
+4. Java Stdin and Stdout II
+5. Java Output Formatting
+6. Java Loops I
+7. Java Loops II
+8. Java Datatypes
+9. Java End-of-file
+10. Java Static Initializer Block
+11. Java Int to String
+12. Java Date and Time
+13. Java Currency Formatter
+<!--###### Strings-->
+<!--1. Java Strings Introduction-->
+2. Java Substring
+3. Java String Compare
+4. Java String Reverse
+5. Java Anagrams
+6. Java String Tokens
+7. Pattern Syntax Checker
+8. Java Regex
+9. Java Regex 2 - Duplicate Words
+10. Java Regex 3 - Username Checker
+11. Tag Content Extractor
+###### BigNumber
+1. Java BigInteger
+2. Java BigDecimal
+3. Java Primality Test
 
 ##### [C++](https://www.hackerrank.com/domains/cpp/)
 
