@@ -4,7 +4,7 @@ A repository containing all my completed coding challenges from coding challenge
 
 ### [Hackerrank](https://www.hackerrank.com/) 
 
-##### [Algorithms](https://www.hackerrank.com/domains/algorithms/)
+##### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
 ###### Warmup
 <!--1. Solve Me First-->
 <!--2. Simple Array Sum-->
