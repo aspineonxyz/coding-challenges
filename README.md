@@ -1,11 +1,13 @@
 # Coding Challenges
 
-A repository containing all my completed coding challenges from coding challenge websites and competitions.
+A repository containing all my completed coding challenges from coding challenge websites such as [Hackerrank](https://www.hackerrank.com/), [TopCoder](https://www.topcoder.com/) or [LeetCode](https://leetcode.com/). I do not own the rights to the questions and am just cataloging my submissions for the purposes of revision and as an exercise in learning __*git*__. 
 
-### [Hackerrank](https://www.hackerrank.com/) 
+__NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
-##### [Algorithms](https://www.hackerrank.com/domains/algorithms/)
-###### Warmup
+## [Hackerrank](https://www.hackerrank.com/) 
+
+#### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
+##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
 <!--1. Solve Me First-->
 <!--2. Simple Array Sum-->
 <!--3. Compare the Triplets-->
@@ -15,10 +17,10 @@ A repository containing all my completed coding challenges from coding challenge
 <!--7. Staircase-->
 <!--8. Mini-Max Sum-->
 <!--9. Birthday Cake Candles-->
-10. Time Conversion
-###### Implementation
+[10. Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
+##### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
 <!--1. Grading Students-->
-2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/Apple%20and%20Orange)
+[2. Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/2.%20Apple%20and%20Orange)
 <!--3. Kangaroo-->
 <!--4. Between Two Sets-->
 <!--5. Breaking the Records-->
@@ -29,15 +31,15 @@ A repository containing all my completed coding challenges from coding challenge
 <!--10. Bon Appétit-->
 <!--to be continued . . .-->
 
-##### [Data Structures](https://www.hackerrank.com/domains/data-structures/)
-###### Arrays
+#### [Data Structures](https://www.hackerrank.com/domains/data-structures/)
+##### Arrays
 1. Arrays - DS
 2. 2D Array - DS
 <!--3. Dynamic Array-->
 <!--4. Left Rotation-->
 <!--5. Sparse Arrays-->
 <!--6. Algorithmic Crush-->
-###### Linked Lists
+##### Linked Lists
 1. Print the Elements of a Linked List
 2. Insert a Node at the Tail of a Linked List
 3. Insert a node at the head of a linked list
@@ -53,14 +55,14 @@ A repository containing all my completed coding challenges from coding challenge
 13. Find Merge Point of Two Lists
 14. Inserting a Node Into a Sorted Doubly Linked List
 15. Reverse a doubly linked list
-###### Trees
+##### Trees
 1. Tree: Preorder Traversal
 2. Tree: Postorder Traversal
 3. Tree: Inorder Traversal
 4. Tree: Height of a Binary Tree
-5. Tree : Top View
+5. Tree: Top View
 6. Tree: Level Order Traversal
-7. Binary Search Tree : Insertion
+7. Binary Search Tree: Insertion
 <!--8. Tree: Huffman Decoding-->
 <!--9. Binary Search Tree : Lowest Common Ancestor-->
 <!--10. Swap Nodes [Algo]-->
@@ -71,11 +73,11 @@ A repository containing all my completed coding challenges from coding challenge
 <!--15. Jenny's Subtrees-->
 <!--16. Tree Coordinates-->
 <!--17. Array Pairs-->
-<!--###### Balanced Trees-->
+<!--##### Balanced Trees-->
 <!--1. Self Balancing Tree-->
 <!--2. Array and simple queries-->
 <!--3. Median Updates-->
-<!--###### Stacks-->
+<!--##### Stacks-->
 <!--1. Maximum Element-->
 <!--2. Balanced Brackets-->
 <!--3. Equal Stacks-->
@@ -85,30 +87,30 @@ A repository containing all my completed coding challenges from coding challenge
 <!--7. Poisonous Plants-->
 <!--8. AND xor OR-->
 <!--9. Waiter-->
-<!--###### Queues-->
+<!--##### Queues-->
 <!--1. Queue using Two Stacks-->
 <!--2. Castle on the Grid-->
 <!--3. Down to Zero II-->
 <!--4. Truck Tour-->
 <!--5. Queries with Fixed Length-->
-<!--###### Heap-->
+<!--##### Heap-->
 <!--1. QHEAP1-->
 <!--2. Jesse and Cookies-->
 <!--3. Find the Running Median-->
 <!--4. Minimum Average Waiting Time-->
-<!--###### Disjoint Set-->
+<!--##### Disjoint Set-->
 <!--1. Merging Communities-->
 <!--2. Components in a graph-->
 <!--3. Kundu and Tree-->
 <!--4. Super Maximum Cost Queries-->
-<!--###### Multiple Choice-->
+<!--##### Multiple Choice-->
 <!--1. Data Structures MCQ 1-->
 <!--2. Data Structures MCQ 2-->
 <!--3. Data Structures MCQ 3-->
-<!--###### Trie-->
+<!--##### Trie-->
 <!--1. Contacts-->
 <!--2. No Prefix Set-->
-<!--###### Advanced-->
+<!--##### Advanced-->
 <!--1. Kindergarten Adventures-->
 <!--2. Cube Summation-->
 <!--3. Mr. X and His Shots-->
@@ -158,7 +160,7 @@ A repository containing all my completed coding challenges from coding challenge
 <!--47. Company Retreat-->
 <!--48. Box Operations-->
 
-##### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+#### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 1. Day 0: Hello, World.
 2. Day 1: Data Types
 3. Day 2: Operators
@@ -190,8 +192,8 @@ A repository containing all my completed coding challenges from coding challenge
 29. Day 28: RegEx, Patterns, and Intro to Databases
 30. Day 29: Bitwise AND
 
-##### [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
-###### Data Structures
+#### [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+##### Data Structures
 1. Arrays: Left Rotation
 2. Strings: Making Anagrams
 3. Hash Tables: Ransom Note
@@ -201,22 +203,22 @@ A repository containing all my completed coding challenges from coding challenge
 7. Trees: Is This a Binary Search Tree?
 <!--8. Heaps: Find the Running Median-->
 <!--9. Tries: Contacts-->
-###### Algorithms
+##### Algorithms
 1. Sorting: Bubble Sort
 2. Sorting: Comparator
 <!--3. Merge Sort: Counting Inversions-->
 <!--4. Binary Search: Ice Cream Parlor-->
 <!--5. DFS: Connected Cell in a Grid-->
 <!--6. BFS: Shortest Reach in a Graph-->
-<!--###### Techniques/Concepts-->
+<!--##### Techniques/Concepts-->
 <!--1. Time Complexity: Primality-->
 <!--2. Recursion: Fibonacci Numbers-->
 <!--3. Recursion: Davis' Staircase-->
 <!--4. DP: Coin Change-->
 <!--5. Bit Manipulation: Lonely Integer-->
 
-##### [Python](https://www.hackerrank.com/domains/python/)
-###### Introduction
+#### [Python](https://www.hackerrank.com/domains/python/)
+##### Introduction
 1. Say "Hello, World!" With Python
 2. Reading Raw Input
 3. Python If-Else
@@ -225,14 +227,14 @@ A repository containing all my completed coding challenges from coding challenge
 6. Loops
 7. Write a function
 8. Print Function
-###### Basic Data Types
+##### Basic Data Types
 1. Lists
 2. Tuples
 3. List Comprehensions
 4. Find the Second Largest Number
 5. Nested Lists
 6. Finding the percentage
-###### Strings
+##### Strings
 1. sWAP cASE
 2. String Split and Join
 3. What's Your Name?
@@ -247,7 +249,7 @@ A repository containing all my completed coding challenges from coding challenge
 12. Capitalize!
 13. The Minion Game
 14. Merge the Tools!
-###### Sets
+##### Sets
 1. Introduction to Sets
 2. Symmetric Difference
 3. No Idea!
@@ -261,7 +263,7 @@ A repository containing all my completed coding challenges from coding challenge
 11. The Captain's Room
 12. Check Subset
 13. Check Strict Superset
-###### Math
+##### Math
 1. Polar Coordinates
 2. Find Angle MBC
 3. Triangle Quest 2
@@ -269,7 +271,7 @@ A repository containing all my completed coding challenges from coding challenge
 5. Power - Mod Power
 6. Integers Come In All Sizes
 7. Triangle Quest
-###### Itertools
+##### Itertools
 1. itertools.product()
 2. itertools.permutations()
 3. itertools.combinations()
@@ -277,7 +279,7 @@ A repository containing all my completed coding challenges from coding challenge
 5. Compress the String!
 <!--6. Iterables and Iterators-->
 <!--7. Maximize It!-->
-###### Collections
+##### Collections
 <!--1. collections.Counter()-->
 <!--2. DefaultDict Tutorial-->
 <!--3. Collections.namedtuple()-->
@@ -286,27 +288,27 @@ A repository containing all my completed coding challenges from coding challenge
 <!--6. Collections.deque()-->
 <!--7. Piling Up!-->
 <!--8. Most Common-->
-<!--###### Date and Time-->
+<!--##### Date and Time-->
 <!--1. Calendar Module-->
 <!--2. Time Delta-->
-<!--###### Errors and Exceptions-->
+<!--##### Errors and Exceptions-->
 <!--1. Exceptions-->
 <!--2. Incorrect Regex-->
-###### Classes
+##### Classes
 1. Classes: Dealing with Complex Numbers
 2. Class 2 - Find the Torsional Angle
-###### Built-Ins
+##### Built-Ins
 <!--1. Zipped!-->
 <!--2. Input()-->
 <!--3. Python Evaluation-->
 <!--4. Sort Data-->
 5. Any or All
 6. ginortS
-<!--###### Python Functionals-->
+<!--##### Python Functionals-->
 <!--1. Map and Lambda Function-->
 <!--2. Validating Email Addresses With a Filter-->
 <!--3. Reduce Function-->
-###### Regex and Parsing
+##### Regex and Parsing
 <!--1. Introduction to Regex Module-->
 <!--2. Re.split()-->
 <!--3. Group(), Groups() & Groupdict()-->
@@ -324,13 +326,13 @@ A repository containing all my completed coding challenges from coding challenge
 <!--15. Validating Credit Card Numbers-->
 <!--16. Validating Postal Codes-->
 <!--17. Matrix Script-->
-<!--###### XML-->
+<!--##### XML-->
 <!--1. XML 1 - Find the Score-->
 <!--2. XML2 - Find the Maximum Depth-->
-<!--###### Closures and Decorators-->
+<!--##### Closures and Decorators-->
 <!--1. Standardize Mobile Number Using Decorators-->
 <!--2. Decorators 2 - Name Directory-->
-<!--###### Numpy-->
+<!--##### Numpy-->
 <!--1. Arrays-->
 <!--2. Shape and Reshape-->
 <!--3. Transpose and Flatten-->
@@ -347,8 +349,8 @@ A repository containing all my completed coding challenges from coding challenge
 <!--14. Polynomials-->
 <!--15. Linear Algebra-->
 
-##### [Java](https://www.hackerrank.com/domains/java/)
-###### Introduction
+#### [Java](https://www.hackerrank.com/domains/java/)
+##### Introduction
 1. Welcome to Java!
 2. Java Stdin and Stdout I
 3. Java If-Else
@@ -362,7 +364,7 @@ A repository containing all my completed coding challenges from coding challenge
 11. Java Int to String
 12. Java Date and Time
 13. Java Currency Formatter
-<!--###### Strings-->
+<!--##### Strings-->
 <!--1. Java Strings Introduction-->
 <!--2. Java Substring-->
 <!--3. Java String Compare-->
@@ -374,11 +376,11 @@ A repository containing all my completed coding challenges from coding challenge
 <!--9. Java Regex 2 - Duplicate Words-->
 <!--10. Java Regex 3 - Username Checker-->
 <!--11. Tag Content Extractor-->
-<!--###### BigNumber-->
+<!--##### BigNumber-->
 <!--1. Java BigInteger-->
 <!--2. Java BigDecimal-->
 <!--3. Java Primality Test-->
-<!--###### Data Structures-->
+<!--##### Data Structures-->
 <!--1. Java 1D Array-->
 <!--2. Java 2D Array-->
 <!--3. Java Subarray-->
@@ -394,7 +396,7 @@ A repository containing all my completed coding challenges from coding challenge
 <!--13. Java Dequeue-->
 <!--14. Java BitSet-->
 <!--15. Java Priority Queue-->
-<!--###### Object Oriented Programming-->
+<!--##### Object Oriented Programming-->
 <!--1. Java Inheritance I-->
 <!--2. Java Inheritance II-->
 <!--3. Java Abstract Class-->
@@ -403,10 +405,10 @@ A repository containing all my completed coding challenges from coding challenge
 <!--6. Java Method Overriding 2 (Super Keyword)-->
 <!--7. Java Instanceof keyword-->
 <!--8. Java Iterator-->
-<!--###### Exception Handling-->
+<!--##### Exception Handling-->
 <!--1. Java Exception Handling (Try-catch)-->
 <!--2. Java Exception Handling-->
-<!--###### Advanced-->
+<!--##### Advanced-->
 <!--1. Java Varargs - Simple Addition-->
 <!--2. Java Reflection - Attributes-->
 <!--3. Can You Access?-->
@@ -420,8 +422,8 @@ A repository containing all my completed coding challenges from coding challenge
 <!--11. Java MD5-->
 <!--12. Java SHA-256-->
 
-##### [C++](https://www.hackerrank.com/domains/cpp/)
-###### Introduction
+#### [C++](https://www.hackerrank.com/domains/cpp/)
+##### Introduction
 1. Say "Hello, World!" With C++
 2. Input and Output
 3. Basic Data Types
@@ -432,11 +434,11 @@ A repository containing all my completed coding challenges from coding challenge
 8. Arrays Introduction
 <!--9. Variable Sized Arrays-->
 <!--10. Virtual Functions-->
-<!--###### Strings-->
+<!--##### Strings-->
 <!--1. Strings-->
 <!--2. StringStream-->
 <!--3. Attribute Parser-->
-<!--###### Classes-->
+<!--##### Classes-->
 <!--1. Structs-->
 <!--2. Class-->
 <!--3. Classes and Objects-->
@@ -444,7 +446,7 @@ A repository containing all my completed coding challenges from coding challenge
 <!--5. Inherited Code-->
 <!--6. Exceptional Server-->
 <!--7. Abstract Classes - Polymorphism-->
-<!--###### STL-->
+<!--##### STL-->
 <!--1. Vector-Sort-->
 <!--2. Vector-Erase-->
 <!--3. Lower Bound-STL-->
@@ -452,13 +454,13 @@ A repository containing all my completed coding challenges from coding challenge
 <!--5. Maps-STL-->
 <!--6. Print Pretty-->
 <!--7. Deque-STL-->
-<!--###### Inheritance-->
+<!--##### Inheritance-->
 <!--1. Inheritance Introduction-->
 <!--2. Rectangle Area-->
 <!--3. Multi Level Inheritance-->
 <!--4. Accessing Inherited Functions-->
 <!--5. Magic Spells-->
-<!--###### Other Concepts-->
+<!--##### Other Concepts-->
 <!--1. C++ Class Templates-->
 <!--2. Preprocessor Solution-->
 <!--3. Operator Overloading-->
@@ -468,10 +470,10 @@ A repository containing all my completed coding challenges from coding challenge
 <!--7. C++ Variadics-->
 <!--8. Bit Array-->
 
-<!--#### [LeetCode](https://leetcode.com/)-->
-<!--#### TopCoder-->
-<!--#### Coderbyte-->
-<!--#### Project Euler-->
-<!--#### CodeChef-->
-<!--#### CodeEval-->
-<!--#### Codewars-->
+<!--### [LeetCode](https://leetcode.com/)-->
+<!--### TopCoder-->
+<!--### Coderbyte-->
+<!--### Project Euler-->
+<!--### CodeChef-->
+<!--### CodeEval-->
+<!--### Codewars-->
