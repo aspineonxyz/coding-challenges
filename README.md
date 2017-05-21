@@ -60,9 +60,9 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 2. Tree: Postorder Traversal
 3. Tree: Inorder Traversal
 4. Tree: Height of a Binary Tree
-5. Tree : Top View
+5. Tree: Top View
 6. Tree: Level Order Traversal
-7. Binary Search Tree : Insertion
+7. Binary Search Tree: Insertion
 <!--8. Tree: Huffman Decoding-->
 <!--9. Binary Search Tree : Lowest Common Ancestor-->
 <!--10. Swap Nodes [Algo]-->
