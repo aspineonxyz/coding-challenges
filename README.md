@@ -469,10 +469,6 @@ A repository containing all my completed coding challenges from coding challenge
 <!--8. Bit Array-->
 
 <!--#### [LeetCode](https://leetcode.com/)-->
-<!--##### Easy-->
-<!--##### Medium-->
-<!--##### Hard-->
-
 <!--#### TopCoder-->
 <!--#### Coderbyte-->
 <!--#### Project Euler-->
