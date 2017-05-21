@@ -3,9 +3,218 @@
 A repository containing all my completed coding challenges from coding challenge websites and competitions.
 
 ### [Hackerrank](https://www.hackerrank.com/) 
+
 ##### [Algorithms](https://www.hackerrank.com/domains/algorithms/)
+###### Warmup
+<!--1. Solve Me First-->
+<!--2. Simple Array Sum-->
+<!--3. Compare the Triplets-->
+<!--4. A Very Big Sum-->
+<!--5. Diagonal Difference-->
+<!--6. Plus Minus-->
+<!--7. Staircase-->
+<!--8. Mini-Max Sum-->
+<!--9. Birthday Cake Candles-->
+10. Time Conversion
+###### Implementation
+<!--1. Grading Students-->
+2. Apple and Orange
+<!--3. Kangaroo-->
+<!--4. Between Two Sets-->
+<!--5. Breaking the Records-->
+<!--6. Birthday Chocolate-->
+<!--7. Divisible Sum Pairs-->
+<!--8. Migratory Birds-->
+<!--9. Day of the Programmer-->
+<!--10. Bon Appétit-->
+<!--to be continued . . .-->
+
 ##### [Data Structures](https://www.hackerrank.com/domains/data-structures/)
+###### Arrays
+1. Arrays - DS
+2. 2D Array - DS
+<!--3. Dynamic Array-->
+<!--4. Left Rotation-->
+<!--5. Sparse Arrays-->
+<!--6. Algorithmic Crush-->
+###### Linked Lists
+1. Print the Elements of a Linked List
+2. Insert a Node at the Tail of a Linked List
+3. Insert a node at the head of a linked list
+4. Insert a node at a specific position in a linked list
+5. Delete a Node
+6. Print in Reverse
+7. Reverse a linked list
+8. Compare two linked lists
+9. Merge two sorted linked lists
+10. Get Node Value
+11. Delete duplicate-value nodes from a sorted linked list
+12. Cycle Detection
+13. Find Merge Point of Two Lists
+14. Inserting a Node Into a Sorted Doubly Linked List
+15. Reverse a doubly linked list
+###### Trees
+1. Tree: Preorder Traversal
+2. Tree: Postorder Traversal
+3. Tree: Inorder Traversal
+4. Tree: Height of a Binary Tree
+5. Tree : Top View
+6. Tree: Level Order Traversal
+7. Binary Search Tree : Insertion
+<!--8. Tree: Huffman Decoding-->
+<!--9. Binary Search Tree : Lowest Common Ancestor-->
+<!--10. Swap Nodes [Algo]-->
+<!--11. Kitty's Calculations on a Tree-->
+12. Is This a Binary Search Tree?
+<!--13. Square-Ten Tree-->
+<!--14. Balanced Forest-->
+<!--15. Jenny's Subtrees-->
+<!--16. Tree Coordinates-->
+<!--17. Array Pairs-->
+<!--###### Balanced Trees-->
+<!--1. Self Balancing Tree-->
+<!--2. Array and simple queries-->
+<!--3. Median Updates-->
+<!--###### Stacks-->
+<!--1. Maximum Element-->
+<!--2. Balanced Brackets-->
+<!--3. Equal Stacks-->
+<!--4. Game of Two Stacks-->
+<!--5. Largest Rectangle-->
+<!--6. Simple Text Editor-->
+<!--7. Poisonous Plants-->
+<!--8. AND xor OR-->
+<!--9. Waiter-->
+<!--###### Queues-->
+<!--1. Queue using Two Stacks-->
+<!--2. Castle on the Grid-->
+<!--3. Down to Zero II-->
+<!--4. Truck Tour-->
+<!--5. Queries with Fixed Length-->
+<!--###### Heap-->
+<!--1. QHEAP1-->
+<!--2. Jesse and Cookies-->
+<!--3. Find the Running Median-->
+<!--4. Minimum Average Waiting Time-->
+<!--###### Disjoint Set-->
+<!--1. Merging Communities-->
+<!--2. Components in a graph-->
+<!--3. Kundu and Tree-->
+<!--4. Super Maximum Cost Queries-->
+<!--###### Multiple Choice-->
+<!--1. Data Structures MCQ 1-->
+<!--2. Data Structures MCQ 2-->
+<!--3. Data Structures MCQ 3-->
+<!--###### Trie-->
+<!--1. Contacts-->
+<!--2. No Prefix Set-->
+<!--###### Advanced-->
+<!--1. Kindergarten Adventures-->
+<!--2. Cube Summation-->
+<!--3. Mr. X and His Shots-->
+<!--4. Direct Connections-->
+<!--5. Subsequence Weighting-->
+<!--6. Jim and the Skyscrapers-->
+<!--7. Palindromic Subsets-->
+<!--8. Counting On a Tree-->
+<!--9. Unique Colors-->
+<!--10. Polynomial Division-->
+<!--11. Self-Driving Bus-->
+<!--12. Fibonacci Numbers Tree-->
+<!--13. Functional Palindromes-->
+<!--14. Lazy White Falcon-->
+<!--15. Ticket to Ride-->
+<!--16. Heavy Light White Falcon-->
+<!--17. Sum of the Maximums-->
+<!--18. Number Game on a Tree-->
+<!--19. Heavy Light 2 White Falcon-->
+<!--20. Library Query-->
+<!--21. Starfleet-->
+<!--22. Almost Equal - Advanced-->
+<!--23. Almost sorted interval-->
+<!--24. Burger Happiness-->
+<!--25. Roy and alpha-beta trees-->
+<!--26. Coloring Tree-->
+<!--27. Recalling Early Days GP with Trees-->
+<!--28. Swaps and Sum-->
+<!--29. Arithmetic Progressions-->
+<!--30. Coolguy and Two Subsequences-->
+<!--31. White Falcon And Tree-->
+<!--32. Subtrees And Paths-->
+<!--33. Triplets-->
+<!--34. Beautiful Segments-->
+<!--35. Divisibility-->
+<!--36. BST maintenance-->
+<!--37. Find Maximum Index Product-->
+<!--38. Taxicab Driver's Problem-->
+<!--39. Jaggu Playing with Balloons-->
+<!--40. Dynamic Summation-->
+<!--41. Two Array Problem-->
+<!--42. Rooted Tree-->
+<!--43. The crazy helix-->
+<!--44. Network administration-->
+<!--45. Easy Addition-->
+<!--46. Find the permutation-->
+<!--47. Company Retreat-->
+<!--48. Box Operations-->
+
 ##### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+1. Day 0: Hello, World.
+2. Day 1: Data Types
+3. Day 2: Operators
+4. Day 3: Intro to Conditional Statements
+5. Day 4: Class vs. Instance
+6. Day 5: Loops
+7. Day 6: Let's Review
+8. Day 7: Arrays
+9. Day 8: Dictionaries and Maps
+10. Day 9: Recursion
+11. Day 10: Binary Numbers
+12. Day 11: 2D Arrays
+13. Day 12: Inheritance
+14. Day 13: Abstract Classes
+15. Day 14: Scope
+16. Day 15: Linked List
+17. Day 16: Exceptions - String to Integer
+18. Day 17: More Exceptions
+19. Day 18: Queues and Stacks
+20. Day 19: Interfaces
+21. Day 20: Sorting
+22. Day 21: Generics
+23. Day 22: Binary Search Trees
+24. Day 23: BST Level-Order Traversal
+25. Day 24: More Linked Lists
+26. Day 25: Running Time and Complexity
+27. Day 26: Nested Logic
+28. Day 27: Testing
+29. Day 28: RegEx, Patterns, and Intro to Databases
+30. Day 29: Bitwise AND
+
+##### [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+###### Data Structures
+1. Arrays: Left Rotation
+2. Strings: Making Anagrams
+3. Hash Tables: Ransom Note
+4. Linked Lists: Detect a Cycle
+5. Stacks: Balanced Brackets
+6. Queues: A Tale of Two Stacks
+7. Trees: Is This a Binary Search Tree?
+<!--8. Heaps: Find the Running Median-->
+<!--9. Tries: Contacts-->
+###### Algorithms
+1. Sorting: Bubble Sort
+2. Sorting: Comparator
+<!--3. Merge Sort: Counting Inversions-->
+<!--4. Binary Search: Ice Cream Parlor-->
+<!--5. DFS: Connected Cell in a Grid-->
+<!--6. BFS: Shortest Reach in a Graph-->
+<!--###### Techniques/Concepts-->
+<!--1. Time Complexity: Primality-->
+<!--2. Recursion: Fibonacci Numbers-->
+<!--3. Recursion: Davis' Staircase-->
+<!--4. DP: Coin Change-->
+<!--5. Bit Manipulation: Lonely Integer-->
+
 ##### [Python](https://www.hackerrank.com/domains/python/)
 ###### Introduction
 1. Say "Hello, World!" With Python
@@ -155,22 +364,109 @@ A repository containing all my completed coding challenges from coding challenge
 13. Java Currency Formatter
 <!--###### Strings-->
 <!--1. Java Strings Introduction-->
-2. Java Substring
-3. Java String Compare
-4. Java String Reverse
-5. Java Anagrams
-6. Java String Tokens
-7. Pattern Syntax Checker
-8. Java Regex
-9. Java Regex 2 - Duplicate Words
-10. Java Regex 3 - Username Checker
-11. Tag Content Extractor
-###### BigNumber
-1. Java BigInteger
-2. Java BigDecimal
-3. Java Primality Test
+<!--2. Java Substring-->
+<!--3. Java String Compare-->
+<!--4. Java String Reverse-->
+<!--5. Java Anagrams-->
+<!--6. Java String Tokens-->
+<!--7. Pattern Syntax Checker-->
+<!--8. Java Regex-->
+<!--9. Java Regex 2 - Duplicate Words-->
+<!--10. Java Regex 3 - Username Checker-->
+<!--11. Tag Content Extractor-->
+<!--###### BigNumber-->
+<!--1. Java BigInteger-->
+<!--2. Java BigDecimal-->
+<!--3. Java Primality Test-->
+<!--###### Data Structures-->
+<!--1. Java 1D Array-->
+<!--2. Java 2D Array-->
+<!--3. Java Subarray-->
+<!--4. Java Arraylist-->
+<!--5. Java 1D Array (Part 2)-->
+<!--6. Java List-->
+<!--7. Java Map-->
+<!--8. Java Stack-->
+<!--9. Java Hashset-->
+<!--10. Java Generics-->
+<!--11. Java Comparator-->
+<!--12. Java Sort-->
+<!--13. Java Dequeue-->
+<!--14. Java BitSet-->
+<!--15. Java Priority Queue-->
+<!--###### Object Oriented Programming-->
+<!--1. Java Inheritance I-->
+<!--2. Java Inheritance II-->
+<!--3. Java Abstract Class-->
+<!--4. Java Interface-->
+<!--5. Java Method Overriding-->
+<!--6. Java Method Overriding 2 (Super Keyword)-->
+<!--7. Java Instanceof keyword-->
+<!--8. Java Iterator-->
+<!--###### Exception Handling-->
+<!--1. Java Exception Handling (Try-catch)-->
+<!--2. Java Exception Handling-->
+<!--###### Advanced-->
+<!--1. Java Varargs - Simple Addition-->
+<!--2. Java Reflection - Attributes-->
+<!--3. Can You Access?-->
+<!--4. Prime Checker-->
+<!--5. Java Factory Pattern-->
+<!--6. Java Singleton Pattern-->
+<!--7. Java Visitor Pattern-->
+<!--8. Java Annotations-->
+<!--9. Covariant Return Types-->
+<!--10. Java Lambda Expressions-->
+<!--11. Java MD5-->
+<!--12. Java SHA-256-->
 
 ##### [C++](https://www.hackerrank.com/domains/cpp/)
+###### Introduction
+1. Say "Hello, World!" With C++
+2. Input and Output
+3. Basic Data Types
+4. Conditional Statements
+5. For Loop
+6. Functions
+7. Pointer
+8. Arrays Introduction
+<!--9. Variable Sized Arrays-->
+<!--10. Virtual Functions-->
+<!--###### Strings-->
+<!--1. Strings-->
+<!--2. StringStream-->
+<!--3. Attribute Parser-->
+<!--###### Classes-->
+<!--1. Structs-->
+<!--2. Class-->
+<!--3. Classes and Objects-->
+<!--4. Box It!-->
+<!--5. Inherited Code-->
+<!--6. Exceptional Server-->
+<!--7. Abstract Classes - Polymorphism-->
+<!--###### STL-->
+<!--1. Vector-Sort-->
+<!--2. Vector-Erase-->
+<!--3. Lower Bound-STL-->
+<!--4. Sets-STL-->
+<!--5. Maps-STL-->
+<!--6. Print Pretty-->
+<!--7. Deque-STL-->
+<!--###### Inheritance-->
+<!--1. Inheritance Introduction-->
+<!--2. Rectangle Area-->
+<!--3. Multi Level Inheritance-->
+<!--4. Accessing Inherited Functions-->
+<!--5. Magic Spells-->
+<!--###### Other Concepts-->
+<!--1. C++ Class Templates-->
+<!--2. Preprocessor Solution-->
+<!--3. Operator Overloading-->
+<!--4. Overload Operators-->
+<!--5. Attending Workshops-->
+<!--6. C++ Class Template Specialization-->
+<!--7. C++ Variadics-->
+<!--8. Bit Array-->
 
 <!--#### [LeetCode](https://leetcode.com/)-->
 <!--##### Easy-->
