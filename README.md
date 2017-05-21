@@ -15,10 +15,10 @@ A repository containing all my completed coding challenges from coding challenge
 <!--7. Staircase-->
 <!--8. Mini-Max Sum-->
 <!--9. Birthday Cake Candles-->
-10. Time Conversion
+[10. Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
 ###### Implementation
 <!--1. Grading Students-->
-2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/Apple%20and%20Orange)
+[2. Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/Apple%20and%20Orange)
 <!--3. Kangaroo-->
 <!--4. Between Two Sets-->
 <!--5. Breaking the Records-->
