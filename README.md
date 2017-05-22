@@ -42,7 +42,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ##### [Linked Lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists)
 1. [Print the Elements of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List)
 2. [Insert a Node at the Tail of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List)
-3. Insert a node at the head of a linked list
+3. [Insert a node at the head of a linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list)
 4. Insert a node at a specific position in a linked list
 5. Delete a Node
 6. Print in Reverse
