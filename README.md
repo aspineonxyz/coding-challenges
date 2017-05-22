@@ -39,7 +39,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--4. Left Rotation-->
 <!--5. Sparse Arrays-->
 <!--6. Algorithmic Crush-->
-##### Linked Lists
+##### [Linked Lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists)
 1. [Print the Elements of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List)
 2. Insert a Node at the Tail of a Linked List
 3. Insert a node at the head of a linked list
