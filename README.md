@@ -10,7 +10,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
 1. [Solve Me First](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/1.%20Solve%20Me%20First)
 2. [Simple Array Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/2.%20Simple%20Array%20Sum)
-<!--3. Compare the Triplets-->
+3. [Compare the Triplets](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/3.%20Compare%20the%20Triplets)
 <!--4. A Very Big Sum-->
 <!--5. Diagonal Difference-->
 <!--6. Plus Minus-->
