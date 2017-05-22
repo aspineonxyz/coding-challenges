@@ -1,6 +1,8 @@
+# Print the Elements of a Linked List
+
 This challenge is part of a [MyCodeSchool](https://www.youtube.com/user/mycodeschool) tutorial track and is accompanied by a [video lesson](https://www.youtube.com/embed/vcQIFT79_50?theme=light).
 
-If you're new to linked lists, this is a great exercise for learning about them. Given a pointer to the head node of a linked list, print its elements in order, one element per line. If the head pointer is null (indicating the list is empty), don’t print anything.
+If you're new to *linked lists*, this is a great exercise for learning about them. Given a pointer to the head node of a linked list, print its elements in order, one element per line. If the head pointer is null (indicating the list is empty), don’t print anything.
 
 #### Input Format
 The `void Print(Node* head)` method takes the head node of a linked list as a parameter. Each struct Node has a data field (which stores integer data) and a next field (which points to the next element in the list).
