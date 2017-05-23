@@ -15,7 +15,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 5. [Diagonal Difference](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/5.%20Diagonal%20Difference)
 6. [Plus Minus](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/6.%20Plus%20Minus)
 7. [Staircase](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/7.%20Staircase)
-<!--8. Mini-Max Sum-->
+8. [Mini-Max Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/8.%20Mini-Max%20Sum)
 <!--9. Birthday Cake Candles-->
 10. [Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
 ##### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
