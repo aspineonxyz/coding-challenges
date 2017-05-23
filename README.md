@@ -19,7 +19,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 9. [Birthday Cake Candles](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/9.%20Birthday%20Cake%20Candles)
 10. [Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
 ##### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
-<!--1. Grading Students-->
+1. [Grading Students](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/1.%20Grading%20Students)
 2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/2.%20Apple%20and%20Orange)
 <!--3. Kangaroo-->
 <!--4. Between Two Sets-->
