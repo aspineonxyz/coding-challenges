@@ -21,7 +21,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ##### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
 1. [Grading Students](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/1.%20Grading%20Students)
 2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/2.%20Apple%20and%20Orange)
-<!--3. Kangaroo-->
+3. [Kangaroo](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/2.%20Kangaroo)
 <!--4. Between Two Sets-->
 <!--5. Breaking the Records-->
 <!--6. Birthday Chocolate-->
