@@ -24,7 +24,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 3. [Kangaroo](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/3.%20Kangaroo)
 4. [Between Two Sets](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/4.%20Between%20Two%20Sets)
 5. [Breaking the Records](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/5.%20Breaking%20the%20Records)
-<!--6. Birthday Chocolate-->
+6. [Birthday Chocolate](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/6.%20Birthday%20Chocolate)
 <!--7. Divisible Sum Pairs-->
 <!--8. Migratory Birds-->
 <!--9. Day of the Programmer-->
