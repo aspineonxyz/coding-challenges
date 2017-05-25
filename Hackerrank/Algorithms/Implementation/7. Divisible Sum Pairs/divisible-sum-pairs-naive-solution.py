@@ -3,12 +3,12 @@
 import sys
 
 def div_sum_pairs(arr, k) -> int:
-  count = {}
+  count = 0
   for i in range(len(arr)):
     for j in range(i+1, len(arr)):
       if (arr[i] + arr[j]) % k == 0:
-        count[frozenset([i, j])] = 1
-  return sum(count.values())
+        count += 1
+  return count
 
 n, k = map(int, input().strip().split(' '))
 a = list(map(int, input().strip().split(' ')))
