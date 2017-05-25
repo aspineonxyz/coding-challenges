@@ -12,7 +12,6 @@ def div_sum_pairs(arr, k) -> int:
         count[frozenset([i, j])] = 1
   return sum(count.values())
 
-
 n, k = map(int, input().strip().split(' '))
 a = list(map(int, input().strip().split(' ')))
 
