@@ -1,10 +1,10 @@
 # Coding Challenges
 
-A repository containing all my completed coding challenges from coding challenge websites such as [Hackerrank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/) or [CodeEval](https://www.codeeval.com/). I do not own the rights to the questions and am just cataloging my submissions for the purposes of revision and as an exercise in learning __*git*__. 
+A repository containing all my completed coding challenges from coding challenge websites such as [Hackerrank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/) or [CodeEval](https://www.codeeval.com/). I do not own the rights to the questions and am just cataloging my submissions for the purposes of revision and as an exercise in learning __*git*__.
 
 __NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
-## [Hackerrank](https://www.hackerrank.com/) 
+## [Hackerrank](https://www.hackerrank.com/)
 
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
 ##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
@@ -44,7 +44,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 2. [Insert a Node at the Tail of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/2.%20Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List)
 3. [Insert a node at the head of a linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/3.%20Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list)
 4. [Insert a node at a specific position in a linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/4.%20Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list)
-5. Delete a Node
+5. [Delete a Node](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/5.%20Delete%20a%20Node)
 6. Print in Reverse
 7. Reverse a linked list
 8. Compare two linked lists
