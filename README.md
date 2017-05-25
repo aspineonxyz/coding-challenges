@@ -45,7 +45,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 3. [Insert a node at the head of a linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/3.%20Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list)
 4. [Insert a node at a specific position in a linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/4.%20Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list)
 5. [Delete a Node](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/5.%20Delete%20a%20Node)
-6. Print in Reverse
+6. [Print in Reverse](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/6.%20Print%20in%20Reverse)
 7. Reverse a linked list
 8. Compare two linked lists
 9. Merge two sorted linked lists
