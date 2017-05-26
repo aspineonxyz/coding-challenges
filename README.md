@@ -26,7 +26,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 5. [Breaking the Records](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/5.%20Breaking%20the%20Records)
 6. [Birthday Chocolate](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/6.%20Birthday%20Chocolate)
 7. [Divisible Sum Pairs](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/7.%20Divisible%20Sum%20Pairs)
-<!--8. Migratory Birds-->
+8. [Migratory Birds](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/8.%20Migratory%20Birds)
 <!--9. Day of the Programmer-->
 <!--10. Bon Appétit-->
 <!--to be continued . . .-->
