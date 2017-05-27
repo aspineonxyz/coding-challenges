@@ -29,6 +29,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 8. [Migratory Birds](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/8.%20Migratory%20Birds)
 9. [Day of the Programmer](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/9.%20Day%20of%20the%20Programmer)
 10. [Bon Appétit](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/10.%20Bon%20Appetit)
+11. [Sock Merchant](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/11.%20Sock%20Merchant)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
