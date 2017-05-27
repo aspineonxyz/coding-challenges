@@ -30,7 +30,7 @@ Print the total number of *matching pairs* of socks that John can sell.
 #### Explanation
 
 <p align="center">
-    <img src="" alt=sock-merchant-1>
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/11.%20Sock%20Merchant/img/sock-merchant-1.png" alt=sock-merchant-1>
 </p>
 
 As you can see from the figure above, we can match three pairs of socks. Thus, we print __*3*__ on a new line. 
