@@ -30,6 +30,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 9. [Day of the Programmer](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/09.%20Day%20of%20the%20Programmer)
 10. [Bon Appétit](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/10.%20Bon%20Appetit)
 11. [Sock Merchant](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/11.%20Sock%20Merchant)
+12. [Drawing Book](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/12.%20Drawing%20Book)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
