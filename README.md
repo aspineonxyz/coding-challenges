@@ -35,6 +35,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 12. [Drawing Book](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/12.%20Drawing%20Book)
 13. [Counting Valleys](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/13.%20Counting%20Valleys)
 14. [Electronics Shop](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/14.%20Electronics%20Shop)
+15. [Cats and a Mouse](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/15.%20Cats%20and%20a%20Mouse)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
