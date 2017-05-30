@@ -7,6 +7,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ## [Hackerrank](https://www.hackerrank.com/)
 
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
+
 ##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
 1. [Solve Me First](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/01.%20Solve%20Me%20First)
 2. [Simple Array Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/02.%20Simple%20Array%20Sum)
@@ -18,6 +19,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 8. [Mini-Max Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/08.%20Mini-Max%20Sum)
 9. [Birthday Cake Candles](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/09.%20Birthday%20Cake%20Candles)
 10. [Time Conversion](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/10.%20Time%20Conversion)
+
 ##### [Implementation](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation)
 1. [Grading Students](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/01.%20Grading%20Students)
 2. [Apple and Orange](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/02.%20Apple%20and%20Orange)
@@ -36,6 +38,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
+
 ##### [Arrays](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
 1. [Arrays - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/01.%20Arrays%20-%20DS)
 2. [2D Array - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/02.%202D%20Array%20-%20DS)
@@ -43,6 +46,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--4. Left Rotation-->
 <!--5. Sparse Arrays-->
 <!--6. Algorithmic Crush-->
+
 ##### [Linked Lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists)
 1. [Print the Elements of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/01.%20Print%20the%20Elements%20of%20a%20Linked%20List)
 2. [Insert a Node at the Tail of a Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/02.%20Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List)
@@ -54,11 +58,12 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 8. [Compare two linked lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/08.%20Compare%20two%20Linked%20Lists)
 9. [Merge two sorted linked lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/09.%20Merge%20two%20sorted%20Linked%20Lists)
 10. [Get Node Value](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/10.%20Get%20Node%20Value)
-11. Delete duplicate-value nodes from a sorted linked list
-12. Cycle Detection
-13. Find Merge Point of Two Lists
-14. Inserting a Node Into a Sorted Doubly Linked List
-15. Reverse a doubly linked list
+11. [Delete duplicate-value nodes from a sorted linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/11.%20Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list)
+12. [Cycle Detection](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/12.%20Cycle%20Detection)
+13. [Find Merge Point of Two Lists](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/13.%20Find%20Merge%20Point%20of%20Two%20Lists)
+14. [Inserting a Node Into a Sorted Doubly Linked List](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/14.%20Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List)
+15. [Reverse a doubly linked list](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Linked%20Lists/15.%20Reverse%20a%20doubly%20linked%20list)
+
 ##### Trees
 1. Tree: Preorder Traversal
 2. Tree: Postorder Traversal
@@ -197,6 +202,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 30. Day 29: Bitwise AND
 
 #### [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+
 ##### Data Structures
 1. Arrays: Left Rotation
 2. Strings: Making Anagrams
@@ -207,6 +213,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 7. Trees: Is This a Binary Search Tree?
 <!--8. Heaps: Find the Running Median-->
 <!--9. Tries: Contacts-->
+
 ##### Algorithms
 1. Sorting: Bubble Sort
 2. Sorting: Comparator
@@ -222,6 +229,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--5. Bit Manipulation: Lonely Integer-->
 
 #### [Python](https://www.hackerrank.com/domains/python/)
+
 ##### Introduction
 1. Say "Hello, World!" With Python
 2. Reading Raw Input
@@ -231,6 +239,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 6. Loops
 7. Write a function
 8. Print Function
+
 ##### Basic Data Types
 1. Lists
 2. Tuples
@@ -238,6 +247,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 4. Find the Second Largest Number
 5. Nested Lists
 6. Finding the percentage
+
 ##### Strings
 1. sWAP cASE
 2. String Split and Join
@@ -253,6 +263,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 12. Capitalize!
 13. The Minion Game
 14. Merge the Tools!
+
 ##### Sets
 1. Introduction to Sets
 2. Symmetric Difference
@@ -267,6 +278,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 11. The Captain's Room
 12. Check Subset
 13. Check Strict Superset
+
 ##### Math
 1. Polar Coordinates
 2. Find Angle MBC
@@ -275,6 +287,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 5. Power - Mod Power
 6. Integers Come In All Sizes
 7. Triangle Quest
+
 ##### Itertools
 1. itertools.product()
 2. itertools.permutations()
@@ -283,6 +296,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 5. Compress the String!
 <!--6. Iterables and Iterators-->
 <!--7. Maximize It!-->
+
 ##### Collections
 <!--1. collections.Counter()-->
 <!--2. DefaultDict Tutorial-->
@@ -298,9 +312,11 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--##### Errors and Exceptions-->
 <!--1. Exceptions-->
 <!--2. Incorrect Regex-->
+
 ##### Classes
 1. Classes: Dealing with Complex Numbers
 2. Class 2 - Find the Torsional Angle
+
 ##### Built-Ins
 <!--1. Zipped!-->
 <!--2. Input()-->
@@ -312,6 +328,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--1. Map and Lambda Function-->
 <!--2. Validating Email Addresses With a Filter-->
 <!--3. Reduce Function-->
+
 ##### Regex and Parsing
 <!--1. Introduction to Regex Module-->
 <!--2. Re.split()-->
@@ -354,6 +371,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--15. Linear Algebra-->
 
 #### [Java](https://www.hackerrank.com/domains/java/)
+
 ##### Introduction
 1. Welcome to Java!
 2. Java Stdin and Stdout I
@@ -427,6 +445,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--12. Java SHA-256-->
 
 #### [C++](https://www.hackerrank.com/domains/cpp/)
+
 ##### Introduction
 1. Say "Hello, World!" With C++
 2. Input and Output
