@@ -19,7 +19,7 @@ If the list contains a cycle, your function must return *true*. If the list does
 The following linked lists are passed as arguments to your function:
 
 <p align="center">
-    <img src="" alt="cyclic-linked-list">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Data%20Structures/Linked%20Lists/12.%20Cycle%20Detection/img/cycle-detection-1.png" alt="cyclic-linked-list">
 </p>
 
 #### Sample Output
