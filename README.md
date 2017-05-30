@@ -32,6 +32,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 11. [Sock Merchant](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/11.%20Sock%20Merchant)
 12. [Drawing Book](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/12.%20Drawing%20Book)
 13. [Counting Valleys](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/13.%20Counting%20Valleys)
+14. [Electronics Shop](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/14.%20Electronics%20Shop)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
