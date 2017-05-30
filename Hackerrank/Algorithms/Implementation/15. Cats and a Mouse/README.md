@@ -38,7 +38,7 @@ Cat A
 *Query 0:* The positions of the cats and mouse are shown below:
 
 <p align="center">
-    <img src="" alt="cat-and-a-mouse-1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/15.%20Cats%20and%20a%20Mouse/img/cats-and-a-mouse-1.png" alt="cat-and-a-mouse-1">
 </p>
 
 Cat  will catch the mouse first, so we print Cat B on a new line.
@@ -46,7 +46,7 @@ Cat  will catch the mouse first, so we print Cat B on a new line.
 *Query 1:* In this query, cats __*A*__ and __*B*__ reach mouse __*C*__ at the exact same time:
 
 <p align="center">
-    <img src="" alt="cat-and-a-mouse-2">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/15.%20Cats%20and%20a%20Mouse/img/cats-and-a-mouse-2.png" alt="cat-and-a-mouse-2">
 </p>
 
 Because the mouse escapes, we print `Mouse C` on a new line.
