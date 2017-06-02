@@ -36,6 +36,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 13. [Counting Valleys](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/13.%20Counting%20Valleys)
 14. [Electronics Shop](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/14.%20Electronics%20Shop)
 15. [Cats and a Mouse](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/15.%20Cats%20and%20a%20Mouse)
+16. [Forming a Magic Square](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/16.%20Forming%20a%20Magic%20Square)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
