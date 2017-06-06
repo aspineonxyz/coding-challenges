@@ -7,10 +7,10 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 | Section | Description |
 | :-------- | :---------- |
 | [Algorithms](#Algorithms) | Beginner to advanced algorithm challenges and lessons |
-| [Warmup](#Warmup) | Beginner and warmup algorithm challenges |
-| [Implementation](#Implementation) | Beginner to intermediate algorithm challenges |
+| [Warmup](#warmup) | Beginner and warmup algorithm challenges |
+| [Implementation](#implementation) | Beginner to intermediate algorithm challenges |
 | [Data Structures](#Data-Structures) | Beginner to advanced data structure challenges and lessons |
-| [Arrays](#Arrays) | Comprehensive collection of array based data structure challenges and lessons |
+| [Arrays](#arrays) | Comprehensive collection of array based data structure challenges and lessons |
 
 
 ## [Hackerrank](https://www.hackerrank.com/)
@@ -51,7 +51,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
 
-##### [Arrays](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
+##### [arrays](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
 1. [Arrays - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/01.%20Arrays%20-%20DS)
 2. [2D Array - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/02.%202D%20Array%20-%20DS)
 <!--3. Dynamic Array-->
