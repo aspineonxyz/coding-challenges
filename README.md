@@ -233,6 +233,10 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Python](https://www.hackerrank.com/domains/python/)
 
+```python3
+print("Hello, World!")
+```
+
 ##### Introduction
 1. Say "Hello, World!" With Python
 2. Reading Raw Input
@@ -375,6 +379,10 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Java](https://www.hackerrank.com/domains/java/)
 
+```Java
+System.out.println("Hello, World!");
+```
+
 ##### Introduction
 1. Welcome to Java!
 2. Java Stdin and Stdout I
@@ -448,6 +456,10 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 <!--12. Java SHA-256-->
 
 #### [C++](https://www.hackerrank.com/domains/cpp/)
+
+```c++
+std::cout << "Hello, World!" << std::endl;
+```
 
 ##### Introduction
 1. Say "Hello, World!" With C++
