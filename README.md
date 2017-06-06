@@ -4,6 +4,16 @@ A repository containing all my completed coding challenges from coding challenge
 
 __NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
+| [Hackerrank](Hackerrank) |
+| Section | Description |
+| :-------- | :---------- |
+| [Algorithms](Algorithms) | Beginner to advanced algorithm challenges and lessons |
+| [Warmup](Warmup) | Beginner and warmup algorithm challenges |
+| [Implementation](Implementation) | Beginner to intermediate algorithm challenges |
+| [Data Structures](Data-Structures) | Beginner to advanced data structure challenges and lessons |
+| [Arrays](Arrays) | Comprehensive collection of array based data structure challenges and lessons |
+
+
 ## [Hackerrank](https://www.hackerrank.com/)
 
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
