@@ -9,7 +9,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
   <td colspan="2"><a href="#hackerrank">Hackerrank</a></td>
   </tr>
   <tr>
-  <td><a href="algorithms">Algorithms</a></td>
+  <td><a href="#algorithms">Algorithms</a></td>
     <td>Beginner to advanced algorithm challenges and lessons</td>
   </tr>
   <tr>
@@ -17,7 +17,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
     <td>Beginner and warmup algorithm challenges</td>
   </tr>
   <tr>
-  <td><a href="implementation">Implementation</a></td>
+  <td><a href="#implementation">Implementation</a></td>
     <td>Beginner to intermediate algorithm challenges</td>
   </tr>
   <tr>
