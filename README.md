@@ -4,6 +4,7 @@ A repository containing all my completed coding challenges from coding challenge
 
 __NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
+<p align="center">
 | Section | Description |
 | :-------- | :---------- |
 | [Algorithms](#algorithms) | Beginner to advanced algorithm challenges and lessons |
@@ -11,7 +12,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 | [Implementation](#implementation) | Beginner to intermediate algorithm challenges |
 | [Data Structures](#data-structures) | Beginner to advanced data structure challenges and lessons |
 | [Arrays](#arrays) | Comprehensive collection of array based data structure challenges and lessons |
-
+</p>
 
 ## [Hackerrank](https://www.hackerrank.com/)
 
