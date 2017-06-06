@@ -6,22 +6,22 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 <table>
   <tr> 
-    <td colspan="2">Hackerrank(#hackerrank)</td>
+  <td colspan="2"><a href="#hackerrank">Hackerrank</a></td>
   </tr>
   <tr>
-    <td>[Algorithms](#algorithms)</td>
+  <td><a href="algorithms">Algorithms</a></td>
     <td>Beginner to advanced algorithm challenges and lessons</td>
   </tr>
   <tr>
-    <td>[Warmup](#warmup)</td>
+  <td><a href="#warmup">Warmup</a></td>
     <td>Beginner and warmup algorithm challenges</td>
   </tr>
   <tr>
-    <td>[Implementation](#implementation)</td>
+  <td><a href="implementation">Implementation</a></td>
     <td>Beginner to intermediate algorithm challenges</td>
   </tr>
   <tr>
-    <td>[Data Structures](#data-structures)</td>
+  <td><a href="#data-structures">Data Structures</a></td>
     <td>Beginner to advanced data structure challenges and lessons</td>
   </tr>
   <tr>
