@@ -25,7 +25,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
     <td>Beginner to advanced data structure challenges and lessons</td>
   </tr>
   <tr>
-    <td>[Arrays](#arrays)</td>
+    <td><a id="arrays">Arrays</a></td>
     <td>Comprehensive collection of array based data structure challenges and lessons</td>
   </tr>
 </table>
