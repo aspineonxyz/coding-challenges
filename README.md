@@ -4,6 +4,32 @@ A repository containing all my completed coding challenges from coding challenge
 
 __NOTE:__ This is a work in progress, any challenge that is listed has been completed but may still not yet be uploaded as I am making efforts to format all questions and keep the repo tidy.
 
+<table>
+  <tr> 
+    <td colspan="2">Hackerrank(#hackerrank)</td>
+  </tr>
+  <tr>
+    <td>[Algorithms](#algorithms)</td>
+    <td>Beginner to advanced algorithm challenges and lessons</td>
+  </tr>
+  <tr>
+    <td>[Warmup](#warmup)</td>
+    <td>Beginner and warmup algorithm challenges</td>
+  </tr>
+  <tr>
+    <td>[Implementation](#implementation)</td>
+    <td>Beginner to intermediate algorithm challenges</td>
+  </tr>
+  <tr>
+    <td>[Data Structures](#data-structures)</td>
+    <td>Beginner to advanced data structure challenges and lessons</td>
+  </tr>
+  <tr>
+    <td>[Arrays](#arrays)</td>
+    <td>Comprehensive collection of array based data structure challenges and lessons</td>
+  </tr>
+</table>
+
 <!--
 | Section | Description |
 | :-------- | :---------- |
