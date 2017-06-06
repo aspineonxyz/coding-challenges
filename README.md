@@ -233,7 +233,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Python](https://www.hackerrank.com/domains/python/)
 
-```python3
+```python
 print("Hello, World!")
 ```
 
