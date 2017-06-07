@@ -53,29 +53,29 @@ Print __*m*__ integers. The  integer should indicate the rank of alice after pas
 Alice starts playing with __*7*__ players already on the leaderboard, which looks like this:
 
 <p align="center">
-    <img src="" alt="climbing-the-leaderboard1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard/img/climbing-the-leaderboard1.png" alt="climbing-the-leaderboard1">
 </p>
 
 After Alice finishes level __*0*__, her score is __*5*__ and her ranking is __*6*__:
 
 <p align="center">
-    <img src="" alt="climbing-the-leaderboard2">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard/img/climbing-the-leaderboard2.png" alt="climbing-the-leaderboard2">
 </p>
 
 After Alice finishes level __*1*__, her score is __*25*__ and her ranking is __*4*__:
 
 <p align="center">
-    <img src="" alt="climbing-the-leaderboard3">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard/img/climbing-the-leaderboard3.png" alt="climbing-the-leaderboard3">
 </p>
 
 After Alice finishes level __*2*__, her score is __*50*__ and her ranking is tied with Caroline at __*2*__:
 
 <p align="center">
-    <img src="" alt="climbing-the-leaderboard4">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard/img/climbing-the-leaderboard4.png" alt="climbing-the-leaderboard4">
 </p>
 
 After Alice finishes level __*3*__, her score is __*120*__ and her ranking is __*1*__:
 
 <p align="center">
-    <img src="" alt="climbing-the-leaderboard5">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard/img/climbing-the-leaderboard5.png" alt="climbing-the-leaderboard5">
 </p>
