@@ -7,7 +7,7 @@ Given __*m*__, __*d*__, and the sequence of integers written on each square of L
 For example, if __*m = 2*__, __*d = 3*__ and the chocolate bar contains __*n*__ rows of squares with the integers __*[1, 2, 1, 3, 2]*__ written on them from left to right, the following diagram shows two ways to break off a piece:
 
 <p align="center">
-    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/6.%20Birthday%20Chocolate/img/birthday-chocolate-1.png" alt="chocolate-1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/06.%20Birthday%20Chocolate/img/birthday-chocolate-1.png" alt="chocolate-1">
 </p>
 
 #### Input Format
@@ -58,7 +58,7 @@ This sample is already explained in the problem statement.
 Lily only wants to give Ron __*m = 2*__ consecutive squares of chocolate whose integers sum to __*d = 3*__. There are no possible pieces satisfying these constraints:
 
 <p align="center">
-    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/6.%20Birthday%20Chocolate/img/birthday-chocolate-2.png" alt="chocolate-2">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/06.%20Birthday%20Chocolate/img/birthday-chocolate-2.png" alt="chocolate-2">
 </p>
 
 Thus, we print __*0*__ as our answer.

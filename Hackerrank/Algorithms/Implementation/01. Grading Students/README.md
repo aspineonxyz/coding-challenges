@@ -42,7 +42,7 @@ For each __*grade*__, of the __*n*__ grades, print the rounded grade on a newlin
 
 #### Explanation 0
 <p align="center">
-  <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/1.%20Grading%20Students/img/grading-students-1.png" alt="grades">
+  <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/01.%20Grading%20Students/img/grading-students-1.png" alt="grades">
 </p>
 
 1. Student __*1*__ received a __*73*__, and the next multiple of __*5*__ from __*73*__ is __*75*__. Since __*75 - 73 < 3*__, the student's grade is rounded to __*75*__.
