@@ -1,4 +1,4 @@
-# Simple Array Sum
+# [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 
 Given an array of __*N*__ integers, can you find the sum of its elements?
 
