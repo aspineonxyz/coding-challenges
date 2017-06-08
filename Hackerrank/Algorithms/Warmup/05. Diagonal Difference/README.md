@@ -1,4 +1,4 @@
-# Diagonal Difference
+# [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
 
 Given a square matrix of size __*N x N*__, calculate the absolute difference between the sums of its diagonals.
 
