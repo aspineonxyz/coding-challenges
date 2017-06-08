@@ -1,4 +1,4 @@
-# Grading Students
+# [Grading Students](https://www.hackerrank.com/challenges/grading)
 
 HackerLand University has the following grading policy:
 * Every student receives a __*grade*__ in the inclusive range from __*0*__ to __*100*__.
