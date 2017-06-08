@@ -285,20 +285,22 @@ for d in days:
 
 ```python
 class Interviewee(object):
-  def __init__(self, name, preparation):
+  def __init__(self, name, prep):
     self.name = name
-    self.preparation = preparation
+    self.prep = prep
     self.hired = False
   def interview(self, problem):
     difficulty = problem.get_difficulty()
-    if difficulty > self.preparation:
+    if difficulty > self.prep:
       self.hired = False
+      print("Not hired!")
     else:
       self.hired = True
+      print("Hired!")
   def get_name(self):
     return self.name
-  def is_hired(self):
-    return self.hired
+  def study(self):
+    self.prep += 1
 
 class Problem(object):
   def __init__(self, difficulty, description):
@@ -316,13 +318,12 @@ class Problem(object):
 problem = Problem(5, "Reverse a binary search tree")
 joshua = Interviewee("Joshua Vernon", 7)
 joshua.interview(problem)
-print(joshua.is_hired())
-True
 problem.set_description("Solve the Knapsack Problem")
 problem.set_difficulty(9)
 joshua.interview(problem)
-print(joshua.is_hired())
-False
+for _ in range(3):
+  joshua.study()
+joshua.interview(problem)
 ```
 
 ##### Data Structures
