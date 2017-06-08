@@ -1,4 +1,4 @@
-# Staircase
+# [Staircase](https://www.hackerrank.com/challenges/staircase)
 
 Consider a staircase of size __*n = 4*__:
 ```
