@@ -36,7 +36,21 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
 
+```python
+def binary_search(items, query):
+  if len(items) == 0:
+    return False
+  mid = int(len(items) / 2)
+  if items[mid] == query:
+    return True
+  elif items[mid] <= query:
+    return binary_search(items[mid+1:], query)
+  else:
+    return binary_search(items[:mid], query)
+```
+
 ##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
+
 1. [Solve Me First](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/01.%20Solve%20Me%20First)
 2. [Simple Array Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/02.%20Simple%20Array%20Sum)
 3. [Compare the Triplets](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup/03.%20Compare%20the%20Triplets)
