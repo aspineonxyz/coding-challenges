@@ -1,4 +1,4 @@
-# Compare the Triplets
+# [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
 
 Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from __*1*__ to __*100*__ for three categories: problem clarity, originality, and difficulty.
 
