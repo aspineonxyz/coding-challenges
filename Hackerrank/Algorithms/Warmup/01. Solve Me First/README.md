@@ -1,4 +1,4 @@
-# Solve Me First
+# [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)
 
 Welcome to HackerRank! The purpose of this challenge is to familiarise you with reading input from stdin (the standard input stream) and writing output to stdout (the standard output stream) using our environment.
 
