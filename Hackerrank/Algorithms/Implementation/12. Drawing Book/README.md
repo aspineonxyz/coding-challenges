@@ -1,4 +1,4 @@
-# Drawing Book
+# [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)
 
 Brie’s Drawing teacher asks her class to open their __*n*__-page book to page number __*p*__. Brie can either start turning pages from the front of the book (i.e., page number __*1*__) or from the back of the book (i.e., page number __*n*__), and she always turns pages one-by-one (as opposed to skipping through multiple pages at once). When she opens the book, page __*1*__ is always on the right side:
 
