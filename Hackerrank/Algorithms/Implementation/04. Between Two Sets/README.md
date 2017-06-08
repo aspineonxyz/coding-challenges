@@ -1,4 +1,4 @@
-# Between Two Sets
+# [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)
 
 Consider two sets of positive integers, __*A = {a_0, a_1, ... , a_n-1}*__ and __*B = {b_0, b_1, ... , b_m-1}*__. We say that a positive integer, __*x*__, is between sets __*A*__ and __*B*__ if the following conditions are satisfied:
 
