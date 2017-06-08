@@ -1,4 +1,4 @@
-# Climbing the Leaderboard
+# [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)
 
 Alice is playing an arcade game and wants to climb to the top of the leaderboard. Can you help her track her ranking as she beats each level? The game uses [Dense Ranking](https://en.wikipedia.org/wiki/Ranking#Dense_ranking_.28.221223.22_ranking.29), so its leaderboard works like this:
 
