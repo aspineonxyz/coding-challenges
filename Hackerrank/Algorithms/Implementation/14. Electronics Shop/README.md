@@ -1,4 +1,4 @@
-# Electronics Shop
+# [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)
 
 Monica wants to buy exactly one keyboard and one USB drive from her favourite electronics store. The store sells __*n*__ different brands of keyboards and __*m*__ different brands of USB drives. Monica has exactly __*s*__ dollars to spend, and she wants to spend as much of it as possible (i.e., the total cost of her purchase must be maximal).
 
