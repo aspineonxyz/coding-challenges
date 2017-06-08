@@ -30,7 +30,7 @@ Print an integer denoting the *minimum* number of magic beverages Dan must drink
 Dan's character can jump a maximum of __*k = 4*__ units, but the tallest hurdle has a height of __*h_1 = 6*__:
 
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/19.%20The%20Hurdle%20Race/img/the-hurdle-race-1.png" alt="the-hurdle-race-1">
 </p>
 
 To be able to jump all the hurdles, Dan must drink __*6 - 4 = 2*__ magic beverages.
@@ -50,7 +50,7 @@ To be able to jump all the hurdles, Dan must drink __*6 - 4 = 2*__ magic beverag
 Dan's character can jump a maximum of __*k = 7*__ units, which is enough to cross all the hurdles:
 
 <p align="center">
-    <img src="" alt="">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/19.%20The%20Hurdle%20Race/img/the-hurdle-race-2.png" alt="the-hurdle-race-2">
 </p>
 
 Because he can already jump all the hurdles, Dan needs to drink __*0*__ magic beverages.
