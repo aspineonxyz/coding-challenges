@@ -1,4 +1,4 @@
-# Breaking the Records
+# [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
 
 Maria plays __*n*__ games of college basketball in a season. Because she wants to go pro, she tracks her points scored per game sequentially in an array defined as __*score = [s_0, s_1, ... , s_n-1]*__. After each game __*i*__, she checks to see if score __*s_i*__ breaks her record for most or least points scored so far during that season.
 
