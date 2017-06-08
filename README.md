@@ -235,6 +235,27 @@ class Node(object):
 <!--48. Box Operations-->
 
 #### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+```python
+class Days(object):
+  def __init__(self):
+    self.day = 0
+    
+  def __iter__(self):
+    return self
+    
+  def next(self):
+    if self.day == 30:
+      raise StopIteration
+    else:
+      self.day += 1
+      return "Day " + str(self.day)
+
+days = Days()
+for _ in range(30):
+  print(days.next())
+```
+
 1. Day 0: Hello, World.
 2. Day 1: Data Types
 3. Day 2: Operators
