@@ -1,4 +1,4 @@
-# Counting Valleys
+# [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)
 
 Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like topography. During his last hike, he took exactly __*n*__ steps. For every step he took, he noted if it was an *uphill* or a *downhill* step. Gary's hikes start and end at sea level. We define the following terms:
 
