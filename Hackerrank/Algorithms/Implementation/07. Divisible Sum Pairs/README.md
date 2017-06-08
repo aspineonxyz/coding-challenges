@@ -1,4 +1,4 @@
-# Divisible Sum pairs
+# [Divisible Sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
 
 You are given an array of __*n*__ integers, __*a_0, a_1 ... , a_n-1*__, and a positive integer, __*k*__. Find and print the number of __*(i, j)*__ pairs where __*i < j*__ and __*a_i*__ + __*a_j*__ is evenly divisible by __*k*__.
 
