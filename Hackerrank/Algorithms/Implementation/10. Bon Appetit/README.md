@@ -1,4 +1,4 @@
-# Bon Appétit
+# [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit)
 
 Anna and Brian order __*n*__ items at a restaurant, but Anna declines to eat any of the __*Kth*__ item (where __*0 <= K <= n*__) due to an allergy. When the check comes, they decide to split the cost of all the items they shared; however, Brian may have forgotten that they didn't split the __*Kth*__ item and accidentally charged Anna for it.
 
