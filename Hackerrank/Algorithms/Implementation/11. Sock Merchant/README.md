@@ -1,4 +1,4 @@
-# Sock Merchant
+# [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)
 
 John's clothing store has a pile of __*n*__ loose socks where each sock __*i*__ is labeled with an integer, __*c_i*__, denoting its color. He wants to sell as many socks as possible, but his customers will only buy them in matching pairs. Two socks, __*i*__ and __*j*__, are a single matching pair if __*c_i = c_j*__.
 
