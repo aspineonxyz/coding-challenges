@@ -1,4 +1,4 @@
-# Kangaroo
+# [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)
 
 There are two kangaroos on an x-axis ready to jump in the positive direction (i.e, toward positive infinity). The first kangaroo starts at location __*x_1*__ and moves at a rate of __*v_1*__ meters per jump. The second kangaroo starts at location __*x_2*__ and moves at a rate of __*v_2*__ meters per jump. Given the starting locations and movement rates for each kangaroo, can you determine if they'll ever land at the same location at the same time?
 
