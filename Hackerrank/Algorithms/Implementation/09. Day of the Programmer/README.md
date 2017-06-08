@@ -1,4 +1,4 @@
-# Day of the Programmer
+# [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
 
 Marie invented a [Time Machine](https://en.wikipedia.org/wiki/Time_machine) and wants to test it by time-traveling to visit Russia on the [Day of the Programmer](https://en.wikipedia.org/wiki/Day_of_the_Programmer) (the __*256th*__ day of the year) during a year in the inclusive range from __*1700*__ to __*2700*__.
 
