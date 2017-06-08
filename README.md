@@ -37,16 +37,16 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
 
 ```python
-def binary_search(items, query):
+def binary_search(items, goal):
   if len(items) == 0:
     return False
   mid = int(len(items) / 2)
-  if items[mid] == query:
+  if items[mid] == goal:
     return True
-  elif items[mid] <= query:
-    return binary_search(items[mid+1:], query)
+  elif items[mid] <= goal:
+    return binary_search(items[mid+1:], goal)
   else:
-    return binary_search(items[:mid], query)
+    return binary_search(items[:mid], goal)
 ```
 
 ##### [Warmup](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Warmup)
