@@ -1,4 +1,4 @@
-# Birthday Chocolate
+# [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)
 
 Lily has a chocolate bar consisting of a row of  squares where each square has an integer written on it. She wants to share it with Ron for his birthday, which falls on month __*m*__ and day __*d*__. Lily only wants to give Ron a piece of chocolate if it contains __*m*__ consecutive squares whose integers sum to __*d*__.
 
