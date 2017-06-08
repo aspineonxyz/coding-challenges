@@ -1,4 +1,4 @@
-# Migratory Birds
+# [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)
 
 A flock of __*n*__ birds is flying across the continent. Each bird has a type, and the different types are designated by the ID numbers __*1*__, __*2*__, __*3*__, __*4*__, and __*5*__.
 
