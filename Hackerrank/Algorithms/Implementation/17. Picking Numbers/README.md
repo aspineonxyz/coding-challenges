@@ -1,4 +1,4 @@
-# Picking Numbers
+# [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)
 
 Given an array of integers, find and print the maximum number of integers you can select from the array such that the absolute difference between any two of the chosen integers is __*<= 1*__.
 
