@@ -1,4 +1,4 @@
-# Forming a Magic Square
+# [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)
 
 We define a [magic square](https://en.wikipedia.org/wiki/Magic_square) to be an __*n * n*__ matrix of distinct positive integers from __*1*__ to __*n^2*__ where the sum of any row, column, or diagonal (of length __*n*__) is always equal to the same number (i.e., the *magic constant*).
 
