@@ -1,4 +1,4 @@
-# Birthday Cake Candles
+# [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
 
 Colleen is turning __*n*__ years old! She has __*n*__ candles of various heights on her cake, and candle __*i*__ has height __*height_i*__. Because the taller candles tower over the shorter ones, Colleen can only blow out the tallest candles.
 
