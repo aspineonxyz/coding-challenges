@@ -243,8 +243,8 @@ class Days(object):
     
   def __iter__(self):
     return self
-    
-  def next(self):
+
+  def __next__(self):
     if self.day == 30:
       raise StopIteration
     else:
@@ -252,8 +252,8 @@ class Days(object):
       return "Day " + str(self.day)
 
 days = Days()
-for _ in range(30):
-  print(days.next())
+for d in days:
+  print(d)
 ```
 
 1. Day 0: Hello, World.
