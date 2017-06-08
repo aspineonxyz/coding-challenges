@@ -310,20 +310,16 @@ class Problem(object):
     return self.description  
   def get_difficulty(self):
     return self.difficulty
-  def set_description(self, description):
-    self.description = description    
-  def set_difficulty(self, difficulty):
-    self.difficulty = difficulty
 
-problem = Problem(5, "Reverse a binary search tree")
+problem1 = Problem(5, "Reverse a binary search tree")
 joshua = Interviewee("Joshua Vernon", 7)
-joshua.interview(problem)
-problem.set_description("Solve the Knapsack Problem")
-problem.set_difficulty(9)
-joshua.interview(problem)
+joshua.interview(problem1)
+problem2 = Problem(9, "Solve the Knapsack problem")
+joshua.interview(problem2)
 for _ in range(3):
   joshua.study()
-joshua.interview(problem)
+problem3 = Problem(9, "Solve the Coin Change problem")
+joshua.interview(problem3)
 ```
 
 ##### Data Structures
