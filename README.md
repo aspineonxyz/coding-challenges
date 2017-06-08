@@ -90,16 +90,12 @@ class Node(object):
   def __init__(self, data):
     self.data = data
     self.next = None
-    
   def get_data(self):
     return self.data
-
   def get_next(self):
     return self.next
-    
   def set_data(self, new_data):
     self.data = new_data
-
   def set_next(self, new_next):
     self.next = new_next
 ```
@@ -240,10 +236,8 @@ class Node(object):
 class Days(object):
   def __init__(self):
     self.day = 0
-    
   def __iter__(self):
     return self
-
   def __next__(self):
     if self.day == 30:
       raise StopIteration
@@ -288,6 +282,48 @@ for d in days:
 30. Day 29: Bitwise AND
 
 #### [Cracking the Coding Interview](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+
+```python
+class Interviewee(object):
+  def __init__(self, name, preparation):
+    self.name = name
+    self.preparation = preparation
+    self.hired = False
+  def interview(self, problem):
+    difficulty = problem.get_difficulty()
+    if difficulty > self.preparation:
+      self.hired = False
+    else:
+      self.hired = True
+  def get_name(self):
+    return self.name
+  def is_hired(self):
+    return self.hired
+
+class Problem(object):
+  def __init__(self, difficulty, description):
+    self.difficulty = difficulty
+    self.description = description
+  def get_description(Self):
+    return self.description  
+  def get_difficulty(self):
+    return self.difficulty
+  def set_description(self, description):
+    self.description = description    
+  def set_difficulty(self, difficulty):
+    self.difficulty = difficulty
+
+problem = Problem(5, "Reverse a binary search tree")
+joshua = Interviewee("Joshua Vernon", 7)
+joshua.interview(problem)
+print(joshua.is_hired())
+True
+problem.set_description("Solve the Knapsack Problem")
+problem.set_difficulty(9)
+joshua.interview(problem)
+print(joshua.is_hired())
+False
+```
 
 ##### Data Structures
 1. Arrays: Left Rotation
