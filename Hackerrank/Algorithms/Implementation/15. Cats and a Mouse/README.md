@@ -1,4 +1,4 @@
-# Cats and a Mouse
+# [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)
 
 Two cats named __*A*__ and __*B*__ are standing at integral points on the x-axis. Cat __*A*__ is standing at point __*x*__ and cat __*B*__ is standing at point __*y*__. Both cats run at the same speed, and they want to catch a mouse named __*C*__ that's hiding at integral point __*z*__ on the x-axis. Can you determine who will catch the mouse?
 
