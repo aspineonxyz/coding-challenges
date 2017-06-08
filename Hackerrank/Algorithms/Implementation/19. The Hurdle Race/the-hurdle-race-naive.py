@@ -3,8 +3,15 @@
 import sys
 
 def min_magic(max_height, heights):
-  diff = sorted(heights)[-1] - max_height
-  return diff if diff > 0 else 0
+  idx = 0
+  min_magic = 0
+  while idx < len(heights):
+    if heights[idx] > max_height:
+      min_magic += 1
+      max_height += 1
+    else:
+      idx += 1
+  return min_magic
 
 def main():
   n, k = map(int, input().strip().split(' '))
