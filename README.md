@@ -40,7 +40,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 def binary_search(items, goal):
   if len(items) == 0:
     return False
-  mid = int(len(items) / 2)
+  mid = len(items) // 2
   if items[mid] == goal:
     return True
   elif items[mid] <= goal:
