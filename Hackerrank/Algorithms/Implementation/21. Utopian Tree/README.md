@@ -1,4 +1,4 @@
-# [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)
+# [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree){:target="_blank"}
 
 The Utopian Tree goes through __*2*__ cycles of growth every year. Each spring, it doubles in height. Each summer, its height increases by __*1*__ meter.
 
