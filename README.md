@@ -83,6 +83,7 @@ def binary_search(items, goal):
 18. [Climbing the Leaderboard](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/18.%20Climbing%20the%20Leaderboard)
 19. [The Hurdle Race](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/19.%20The%20Hurdle%20Race)
 20. [Designer PDF Viewer](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/20.%20Designer%20PDF%20Viewer)
+21. [Utopian Tree](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Implementation/21.%20Utopian%20Tree)
 <!--to be continued . . .-->
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
