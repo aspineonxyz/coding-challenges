@@ -3,7 +3,7 @@
 When you select a contiguous block of text in a PDF viewer, the selection is highlighted with a blue rectangle. In a new kind of PDF viewer, the selection of each word is independent of the other words; this means that each rectangular selection area forms independently around each highlighted word. For example:
 
 <p align="center">
-    <img src="" alt="designer-pdf-viewer">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Algorithms/Implementation/20.%20Designer%20PDF%20Viewer/img/designer-pdf-viewer-1.png" alt="designer-pdf-viewer-1">
 </p>
 
 In this type of PDF viewer, the *width* of the rectangular selection area is equal to the number of letters in the word times the width of a letter, and the *height* is the maximum height of any letter in the word.
