@@ -1,4 +1,4 @@
-#### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
+# [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
 
 ```python
 def binary_search(items, goal):
