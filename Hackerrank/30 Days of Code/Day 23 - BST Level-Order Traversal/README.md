@@ -36,7 +36,7 @@ Print the __*data*__ value of each node in the tree's level-order traversal as a
 The input forms the following binary search tree:
 
 <p align="center">
-    <img src="" alt="bst-level-order-traversal">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2023%20-%20BST%20Level-Order%20Traversal/img/bst-level-order-traversal.png" alt="bst-level-order-traversal">
 </p>
 
 We traverse each level of the tree from the root downward, and we process the nodes at each level from left to right. The resulting level-order traversal is __*3 -> 2 -> 5 -> 1 -> 4 -> 7*__, and we print these data values as a single line of space-separated integers.
