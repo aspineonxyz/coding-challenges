@@ -16,7 +16,7 @@ Complete the *Student* class by writing the following:
 * A char *calculate()* method that calculates a *Student* object's average and returns the grade character representative of their calculated average:
 
 <p align="center">
-    <img src="" alt="inheritance">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2012%20-%20Inheritance/img/inheritance.png" alt="inheritance">
 </p>
 
 #### Input Format
