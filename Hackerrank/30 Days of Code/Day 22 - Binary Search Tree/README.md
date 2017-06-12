@@ -37,13 +37,13 @@ The locked stub code in your editor will print the integer returned by your *get
 The input forms the following BST:
 
 <p align="center">
-    <img src="" alt="binary-search-trees-1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2022%20-%20Binary%20Search%20Tree/img/binary-search-tree-1.png" alt="binary-search-trees-1">
 </p>
 
 The longest root-to-leaf path is shown below:
 
 <p align="center">
-    <img src="" alt="binary-search-trees-2">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2022%20-%20Binary%20Search%20Tree/img/binary-search-tree-2.png" alt="binary-search-trees-2">
 </p>
 
 There are __*4*__ nodes in this path that are connected by __*3*__ edges, meaning our BST's __*height = 3*__. Thus, we print __*3*__ as our answer.
