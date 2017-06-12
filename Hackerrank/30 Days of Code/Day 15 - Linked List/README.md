@@ -44,5 +44,5 @@ __*T = 4*__, so the locked code in the editor will be inserting __*4*__ nodes.
 The list is initially empty, so __*head*__ is null; accounting for this, our code returns a new node containing the data value __*2*__ as the __*head*__ of our list. We then create and insert nodes __*3*__, __*4*__, and __*1*__ at the tail of our list. The resulting list returned by the last call to __*insert*__ is __*[2,3,4,1]*__, so the printed output is `2 3 4 1`.
 
 <p align="">
-    <img src="" alt="linked-list-1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2015%20-%20Linked%20List/img/linked-list-1.png" alt="linked-list-1">
 </p>
