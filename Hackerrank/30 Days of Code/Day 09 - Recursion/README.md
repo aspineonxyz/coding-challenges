@@ -6,7 +6,7 @@ Today, we're learning and practicing an algorithmic concept called Recursion. Ch
 #### Recursive Method for Calculating Factorial
 
 <p align="center">
-    <img src="" alt="recursion">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/30%20Days%20of%20Code/Day%2009%20-%20Recursion/img/day-9-recursion.png" alt="recursion">
 </p>
 
 #### Task
