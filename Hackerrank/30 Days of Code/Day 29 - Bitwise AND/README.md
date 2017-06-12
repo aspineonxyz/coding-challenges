@@ -46,4 +46,5 @@ All possible values of __*A*__ and __*B*__ are:
 8. __*A = 3, B = 4, A & B = 0*__
 9. __*A = 3, B = 5, A & B = 1*__
 10. __*A = 4, B = 5, A & B = 4*__
+
 The maximum possible value of __*A & B*__ that is also __*< (K = 2)*__ is __*1*__, so we print __*1*__ on a new line.
