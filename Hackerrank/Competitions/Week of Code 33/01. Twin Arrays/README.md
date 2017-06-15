@@ -1,4 +1,4 @@
-# [Twin Arrays](https://www.hackerrank.com/contests/w33/challenges/twin-arrays)
+<!-- # [Twin Arrays](https://www.hackerrank.com/contests/w33/challenges/twin-arrays)
 
 You are given two arrays __*A*__ and __*B*__ each containing __*n*__ integers. You need to choose exactly __*one*__ number from __*A*__ and exactly __*one*__ number from __*B*__ such that the index of the two chosen numbers is not same and the sum of the 2 chosen values is minimum.
 
@@ -34,4 +34,4 @@ Print the minimum sum which can be obtained under the conditions mentioned in th
 ```
 
 #### Explanation 0
-Minimum sum will be obtained by choosing number at the last index of first array and first index of the second array, i.e. __*2*__.
+Minimum sum will be obtained by choosing number at the last index of first array and first index of the second array, i.e. __*2*__. -->
