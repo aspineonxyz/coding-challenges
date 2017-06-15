@@ -32,6 +32,11 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 </table>
 -->
 
+## [LeetCode](https://leetcode.com/)
+
+419. [Battleships in a Board](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/419.%20Battleships%20in%20a%20Board)
+485. [Max Consecutive Ones](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/485.%20Max%20Consecutive%20Ones)
+
 ## [Hackerrank](https://www.hackerrank.com/)
 
 #### [Algorithms](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms)
@@ -627,7 +632,6 @@ std::cout << "Hello, World!" << std::endl;
 <!--7. C++ Variadics-->
 <!--8. Bit Array-->
 
-<!--### [LeetCode](https://leetcode.com/)-->
 <!--### TopCoder-->
 <!--### Coderbyte-->
 <!--### Project Euler-->
