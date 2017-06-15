@@ -7,7 +7,7 @@ Your objective is to find and print this minimum value.
 For example in the image shown below __1 + 6*__ is the minimum sum.
 
 <p align="center">
-    <img src="" alt="twin-arrays-1">
+    <img src="https://github.com/joshuatvernon/coding-challenges/blob/master/Hackerrank/Competitions/Week%20of%20Code%2033/01.%20Twin%20Arrays/img/twin-arrays-1.jpg" alt="twin-arrays-1">
 </p>
 
 #### Input Format
