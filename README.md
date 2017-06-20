@@ -93,15 +93,15 @@ def binary_search(items, goal):
 
 ##### [Strings](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings)
 1. [Super Reduced String](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings/01.%20Super%20Reduced%20String)
-2. CamelCase
-3. Two Characters
-4. Caesar Cipher
-5. Mars Exploration
-6. Hackerrank in a String!
-7. Pangrams
-8. Weighted Uniform Strings
-9. Seperate the Numbers
-10. Funny String
+<!--2. CamelCase-->
+<!--3. Two Characters-->
+<!--4. Caesar Cipher-->
+<!--5. Mars Exploration-->
+<!--6. Hackerrank in a String!-->
+<!--7. Pangrams-->
+<!--8. Weighted Uniform Strings-->
+<!--9. Seperate the Numbers-->
+<!--10. Funny String-->
 11. [Gemstones](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings/11.%20Gemstones)
 <!--to be continued . . .-->
 
