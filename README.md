@@ -92,7 +92,7 @@ def binary_search(items, goal):
 <!--to be continued . . .-->
 
 ##### [Strings](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings)
-1. [Reduced String](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings/01.%20Reduced%20String)
+1. [Super Reduced String](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings/01.%20Super%20Reduced%20String)
 11. [Gemstones](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Algorithms/Strings/11.%20Gemstones)
 
 #### [Data Structures](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures)
