@@ -1,0 +1,33 @@
+# Gemstones
+
+John has discovered various rocks. Each rock is composed of various elements, and each element is represented by a lower-case Latin letter from 'a' to 'z'. An element can be present multiple times in a rock. An element is called a gem-element if it occurs at least once in each of the rocks.
+
+Given the list of __*N*__ rocks with their compositions, display the number of gem-elements that exist in those rocks.
+
+#### Input Format
+The first line consists of an integer, __*N*__, the number of rocks.
+Each of the next __*N*__ lines contains a rock's composition. Each composition consists of lower-case letters of English alphabet.
+
+#### Constraints
+* __*1 <= N <= 100*__
+* Each composition consists of only lower-case Latin letters ('a'-'z').
+* __*1 <=*__ length of each composition __*<= 100*__
+
+#### Output Format
+Print the number of gem-elements that are common in these rocks. If there are none, print 0.
+
+#### Sample Input
+```
+3
+abcdde
+baccd
+eeabg
+```
+
+#### Sample Output
+```
+2
+```
+
+#### Explanation
+Only "a" and "b" are the two kinds of gem-elements, since these are the only characters that occur in every rock's composition.
