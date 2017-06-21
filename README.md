@@ -32,7 +32,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 </table>
 -->
 
-<a href="#arrays,-and-stuff.">Arrays</a>
+<a href="#arrays-and-stuff">Arrays</a>
 
 ## [LeetCode](https://leetcode.com/)
 
