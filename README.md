@@ -32,6 +32,8 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 </table>
 -->
 
+<a href="#arrays,-and-stuff.">Arrays</a>
+
 ## [LeetCode](https://leetcode.com/)
 
 419. [Battleships in a Board](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/419.%20Battleships%20in%20a%20Board)
@@ -122,7 +124,7 @@ class Node(object):
     self.next = new_next
 ```
 
-##### [Arrays](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
+##### [Arrays, and stuff.](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays)
 1. [Arrays - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/01.%20Arrays%20-%20DS)
 2. [2D Array - DS](https://github.com/joshuatvernon/coding-challenges/tree/master/Hackerrank/Data%20Structures/Arrays/02.%202D%20Array%20-%20DS)
 <!--3. Dynamic Array-->
