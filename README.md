@@ -35,6 +35,7 @@ __NOTE:__ This is a work in progress, any challenge that is listed has been comp
 ## [LeetCode](https://leetcode.com/)
 
 1. [Two Sum](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/001.%20Two%20Sum)
+2. [Add Two Numbers](https://github.com/joshuatvernon/coding-challenges/blob/master/LeetCode/002.%20Add%20Two%20Numbers/add-two-numbers.py)
 419. [Battleships in a Board](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/419.%20Battleships%20in%20a%20Board)
 485. [Max Consecutive Ones](https://github.com/joshuatvernon/coding-challenges/tree/master/LeetCode/485.%20Max%20Consecutive%20Ones)
 
